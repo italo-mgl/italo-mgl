@@ -1,4 +1,4 @@
-# Ítalo Magalhães - Python Developer e Data Analyst.
+## Ítalo Magalhães | Python Developer e Data Analyst.
 
 Estagiário de Projetos - Meireles e Freitas Advogados Associados.
 <p>
