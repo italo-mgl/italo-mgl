@@ -9,6 +9,12 @@ Acadêmico de Analise e Desenvolvimento de Sistemas
 Acadêmico de Analise e Desenvolvimento de Sistemas
 </p>
 
+## Experiencias
+- Bibliotecas para análise de dados em Python (Pandas, Numpy, MatplotLib, Seaborn).
+- Criação e gerenciamento de API'S em Python|Django.
+- Cnstrução de sites escaláveis com Django.
+- Gerenciamento de banco de dados com PostgreSQL.
+- Tratamento, análise e criação de dashboards com Power BI.
 
 ## Linguagens e Tecnologias
 
