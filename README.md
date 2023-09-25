@@ -1,16 +1,21 @@
-### Hi there 👋
+# Ítalo Magalhães - Python Developer e Analista de Dados
 
-<!--
-**italo-mgl/italo-mgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Ítalo Magalhães, um Estagiário de Projetos na empresa Meireles e Freitas Advogados Associados. Sou Python Developer e Analista de Dados, e tenho experiência tecnologias como Django, PosteGreSQL e Power BI.
 
-Here are some ideas to get you started:
+## Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🌐 Django
+- 📊 Power BI
+- 🐘 PostgreSQL
+
+
+## Redes Sociais
+
+- [LinkedIn](https://www.linkedin.com/in/magalhaes-italo/)
+- ✉️ Email: italomagalhaes77@gmail.com
+
+## Contato
+
+- Para entrar em contato comigo, envie um email para [italomagalhaes77@gmail.com](italomagalhaes77@gmail.com).
+
