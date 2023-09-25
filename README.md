@@ -8,6 +8,7 @@ Acadêmico de Analise e Desenvolvimento de Sistemas
 <p>
 Acadêmico de Analise e Desenvolvimento de Sistemas
 </p>
+
 ## Linguagens e Tecnologias
 
 - 🐍 Python
