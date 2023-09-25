@@ -16,6 +16,8 @@ Acadêmico de Analise e Desenvolvimento de Sistemas
 - 📊 Power BI
 - 🐘 PostgreSQL
 
+<img height="180em" src="https://camo.githubusercontent.com/fad8857c0ba4930d1426ccf7f80d361d79f8e50b2d50e82b8f6efcc1ad5cd310/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6973626f616d6162266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-mgl&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" style="max-width: 100%;">
+
 ## Experiencias
 - Bibliotecas para análise de dados em Python (Pandas, Numpy, Matplotlib, Seaborn).
 - Criação e gerenciamento de API'S em Python | Django.
