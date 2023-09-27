@@ -15,6 +15,8 @@ Acadêmico de Analise e Desenvolvimento de Sistemas
 - 🌐 Django
 - 📊 Power BI
 - 🐘 PostgreSQL
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## Experiencias
 - Bibliotecas para análise de dados em Python (Pandas, Numpy, Matplotlib, Seaborn).
