@@ -3,7 +3,6 @@
 Estagiário de Projetos - Meireles e Freitas Advogados Associados.
 <p>
 Python Developer e Data Analyst.
-Acadêmico de Analise e Desenvolvimento de Sistemas
 </p>
 <p>
 Acadêmico de Analise e Desenvolvimento de Sistemas
