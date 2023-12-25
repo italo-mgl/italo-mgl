@@ -33,8 +33,8 @@ Acadêmico de Analise e Desenvolvimento de Sistemas
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-Expert-success?style=flat-square&logo=python">
-    <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-yellow?style=flat-square&logo=postgresql">
     <img src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow?style=flat-square&logo=powerbi">
     <img src="https://img.shields.io/badge/Django-Intermediate-yellow?style=flat-square&logo=django">
+    <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-yellow?style=flat-square&logo=postgresql">
     <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript">
   </p>
