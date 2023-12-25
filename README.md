@@ -11,15 +11,17 @@ Acadêmico de Analise e Desenvolvimento de Sistemas
 ## Linguagens e Tecnologias
 
 - 🐍 Python
-- 🌐 Django
 - 📊 Power BI
+- 🌐 Django
 - 🐘 PostgreSQL
 - </> JavaScript
 
 
 
 ## Experiencias
-- Bibliotecas para tratamento e análise de dados em Python (Pandas, Numpy, Matplotlib, Seaborn).
+- Bibliotecas para tratamento e análise de dados em Python (Pandas, Numpy, Matplotlib e Seaborn).
+- Modelagem e Análise exploratória de dados (PowerBi e DAX).
+- Normalização, limpeza e processamento de dados (PowerBI, DAX e Python).
 - Criação e gerenciamento de API'S em Python | Django.
 - Cnstrução de sites escaláveis com Django.
 - Gerenciamento de banco de dados com PostgreSQL.
