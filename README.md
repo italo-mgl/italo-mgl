@@ -1,12 +1,12 @@
-## <strong>Ítalo Magalhães | Python Developer e Data Analyst.</strong>
+## <strong>[Ítalo Magalhães](https://github.com/italo-mgl/italo-mgl/files/13801443/Italo_Data_Analyst.pdf) | Python Developer e Data Analyst.</strong>
 
-Estagiário de Projetos - Meireles e Freitas Advogados Associados.
-<p>
-Python Developer e Data Analyst.
-</p>
-<p>
-Acadêmico de Analise e Desenvolvimento de Sistemas
-</p>
+## Seja muito bem vindo ao meu perfil!
+
+- Engenheiro Agrônomo - Universidade Federal do Ceará.
+- Acadêmico de Analise e Desenvolvimento de Sistemas - UNIASSELVI.
+- Estagiário de Projetos - Meireles e Freitas Advogados Associados.
+
+
 
 ## Linguagens e Tecnologias
 
