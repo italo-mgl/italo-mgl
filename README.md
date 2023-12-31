@@ -1,5 +1,8 @@
 ## <strong>[Ítalo Magalhães](https://github.com/italo-mgl/italo-mgl/files/13801443/Italo_Data_Analyst.pdf) | Python Developer e Data Analyst.</strong>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magalhaes-italo/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italomagalhaes77@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-IT-blueviolet?style=for-the-badge&logo=github)]([https://github.com/seu-usuario/portfolio](https://github.com/italo-mgl/Ciencias_de_Dados_Projetos))
 ## Seja muito bem vindo ao meu perfil!
 
 - Engenheiro Agrônomo - Universidade Federal do Ceará.
@@ -26,11 +29,6 @@
 - Criação e gerenciamento de API'S em Python | Django.
 - Cnstrução de sites escaláveis com Django.
 - Gerenciamento de banco de dados com PostgreSQL.
-  
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magalhaes-italo/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italomagalhaes77@gmail.com)
 
 
 <p align="center">
