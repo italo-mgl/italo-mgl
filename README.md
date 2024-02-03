@@ -7,7 +7,7 @@
 
 - Engenheiro Agrônomo - Universidade Federal do Ceará.
 - Acadêmico de Analise e Desenvolvimento de Sistemas - UNIASSELVI.
-- Estagiário de Analise de dados - Meireles e Freitas Advogados Associados.
+- Estagiário de Análise de dados - Meireles e Freitas Advogados Associados.
 
 
 
