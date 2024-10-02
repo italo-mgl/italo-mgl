@@ -25,10 +25,9 @@
 - Bibliotecas para tratamento e análise de dados em Python (Pandas, Numpy, Matplotlib e Seaborn).
 - Modelagem e Análise exploratória de dados (PowerBi e DAX).
 - Normalização, limpeza e processamento de dados (PowerBI, DAX e Python).
-- Criação de dashboards com Power BI.
-- Criação e gerenciamento de API'S em Python | Django.
-- Cnstrução de sites escaláveis com Django.
-- Gerenciamento de banco de dados com PostgreSQL.
+- Criação de dashboards com Power BI, Python.
+- Gerenciamento e requisições de API'S com Python.
+- Gerenciamento de banco de dados com SQL.
 
 
 <p align="center">
