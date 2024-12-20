@@ -3,11 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magalhaes-italo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italomagalhaes77@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-IT-blueviolet?style=for-the-badge&logo=github)](https://github.com/italo-mgl/Ciencias_de_Dados_Projetos)
-## Seja muito bem vindo ao meu perfil!
+## Opa, tudo bem ?
 
 - Engenheiro Agrônomo - Universidade Federal do Ceará.
 - Acadêmico de Analise e Desenvolvimento de Sistemas - UNIASSELVI.
-- Estagiário de processos - Hostweb Data Center.
+- Analista de Processos - Hostweb Data Center.
 
 
 
