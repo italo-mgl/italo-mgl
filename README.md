@@ -5,9 +5,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-IT-blueviolet?style=for-the-badge&logo=github)](https://github.com/italo-mgl/Ciencias_de_Dados_Projetos)
 ## Opa, tudo bem ?
 
+- Analista de Processos - Hostweb Data Center.
 - Engenheiro Agrônomo - Universidade Federal do Ceará.
 - Acadêmico de Analise e Desenvolvimento de Sistemas - UNIASSELVI.
-- Analista de Processos - Hostweb Data Center.
 
 
 
@@ -15,10 +15,8 @@
 
 - 🐍 Python
 - 📊 Power BI
-- 🌐 Django
+- 📊 Tableu
 - 🐘 PostgreSQL
-- </> JavaScript
-
 
 
 ## Experiencias
