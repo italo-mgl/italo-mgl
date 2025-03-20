@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magalhaes-italo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italomagalhaes77@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-IT-blueviolet?style=for-the-badge&logo=github)](https://github.com/italo-mgl/Ciencias_de_Dados_Projetos)
+[![Portfolio](https://img.shields.io/badge/Portfolio-IT-blue?style=for-the-badge&logo=appveyor)](https://italo-mgl.streamlit.app/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-IT-blueviolet?style=for-the-badge&logo=github)](https://github.com/italo-mgl/Ciencias_de_Dados_Projetos)-->
 ## Opa, tudo bem ?
 
 - Analista de Processos - Hostweb Data Center.
